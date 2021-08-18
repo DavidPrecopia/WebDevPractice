@@ -9,5 +9,5 @@ A repo to practice and develop our programming skills.
 #### The first of a 5 part series (broadly) covering programming fundamentals
 * https://rkay301.medium.com/programming-fundamentals-part-one-what-is-a-program-6e6639aedc58
 
-### Working Class Java Programming & Software Architecture Fundamentals Course
+#### Working Class Java Programming & Software Architecture Fundamentals Course
 * https://www.youtube.com/playlist?list=PLEVlop6sMHCoVFZ8nc_HmXOi8Msrah782
